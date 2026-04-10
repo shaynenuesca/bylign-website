@@ -927,7 +927,7 @@ footer {
 
 @media (max-width: 640px) {
   .rooted-header { grid-template-columns: 1fr; }
-  .rooted-logo-wrap { max-width: 120px; margin: 0 auto; }
+  .rooted-logo-wrap { max-width: 320px; margin: 0 auto; }
 }
 
 

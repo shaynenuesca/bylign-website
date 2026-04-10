@@ -1061,6 +1061,11 @@ footer {
 
   .container    { padding: 0 1.25rem; }
   .about-grid   { grid-template-columns: 1fr; }
+  .about-photo-wrap {
+  max-width: 140px;
+  margin: 0 auto;
+  padding: 6px;
+}
   .service-row  { grid-template-columns: 1fr; gap: 0.2rem; }
   .cs-entry     { grid-template-columns: 1fr; }
   .footer-inner { flex-direction: column; align-items: flex-start; }

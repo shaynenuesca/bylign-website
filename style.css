@@ -1062,7 +1062,7 @@ footer {
   .container    { padding: 0 1.25rem; }
   .about-grid   { grid-template-columns: 1fr; }
   .about-photo-wrap {
-  max-width: 140px;
+  max-width: 240px;
   margin: 0 auto;
   padding: 6px;
 }
